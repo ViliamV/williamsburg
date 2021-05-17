@@ -1,0 +1,10 @@
+name: 'williamsburg'
+version: '1.0.0'
+license: 'MIT'
+author: 'Viliam Valent'
+url: 'https://github.com/ViliamV/williamsburg'
+description: 'A hip neighborhood color scheme'
+colorschemes:
+  - name: williamsburg
+    background: 'dark'
+    palette: williamsburg
